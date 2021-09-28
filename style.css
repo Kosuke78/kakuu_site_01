@@ -51,7 +51,6 @@ table {
     justify-content: space-between;
     align-items: center;
     padding: 0 30px;
-    border: 1px solid red;
     width: 100%;
     transition: transform .4s ease;
 }
@@ -199,14 +198,12 @@ table {
 }
 .satisfaction_graph {
     flex: 1;
-    border: 1px solid red;
     padding-top: 20px;
     background-color: cadetblue;
 }
 .satisfaction_des {
     flex: 1;
     padding: 50px;
-    border: 1px solid red;
     width: 100%;
     position: relative;
 }
